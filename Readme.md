@@ -1,1 +1,1 @@
-This branch is how to create blog pages
+This branch is how to create navbar component
