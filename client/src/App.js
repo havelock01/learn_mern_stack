@@ -1,8 +1,17 @@
-import logo from "./logo.svg";
-import "./App.css";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+//pages
+import Home from "./pages/Home";
 
 function App() {
-  return <div className="bg-red-500 text-center text-white">App component</div>;
+  return (
+    <Router>
+      <div className="max-w-screen-md mx-auto pt-20">
+        <Routes>
+          <Route path="/" element={<Home />} />
+        </Routes>
+      </div>
+    </Router>
+  );
 }
 
 export default App;
