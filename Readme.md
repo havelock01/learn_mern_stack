@@ -1,1 +1,1 @@
-This branch is how to create the app component
+This branch is how to create blog pages
