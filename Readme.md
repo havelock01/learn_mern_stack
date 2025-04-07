@@ -1,1 +1,1 @@
-This branch is configure tailwind css with react
+This branch is how to create the app component
