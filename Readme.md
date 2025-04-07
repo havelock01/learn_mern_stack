@@ -1,1 +1,1 @@
-Hello my name is Muhammad Rizqi, this repository just for learning MERN Stack
+This branch is the first learn starting up with react as front end
