@@ -1,1 +1,1 @@
-This branch is how to URL Parameters with react-router
+This branch is how to create and link the articles list
